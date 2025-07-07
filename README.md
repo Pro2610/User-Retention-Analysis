@@ -62,4 +62,6 @@ You can:
 
 ---
 
-Made with 📊 and 💙 by [Yana Prozhuhan]
+Made with 📊 and 💙 by [Yana Prozhuhan] 
+
+https://www.linkedin.com/in/yana-prozhuhan/
